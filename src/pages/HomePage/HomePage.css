@@ -1,0 +1,28 @@
+.section-height {
+    @apply shrink-0 basis-[calc(100vh-var(--header-height))];
+}
+
+.author-highlight-background,
+.testimonials-background,
+.contact-background {
+    background: linear-gradient(180deg, #212360 1.1%, rgba(13, 44, 67, 0.80) 67.14%, #102C44 115.42%);
+}
+
+.book-preview-background {
+    background: linear-gradient(180deg, #5175A2 0%, rgba(43, 55, 98, 0.00) 100%);
+}
+
+.book-video-background {
+    /*background: radial-gradient(67.14% 66.59% at 51.94% 54.63%, rgba(35, 37, 85, 0.00) 0%, rgba(13, 44, 67, 0.00) 0%, #102C44 100%);*/
+    background: radial-gradient(176.84% 176.84% at 51.94% 54.63%, rgba(35, 37, 85, 0) 0%, rgba(13, 31, 67, 0) 0%, #26104C 100%)
+
+}
+
+.book-items-container,
+.testimonials-items-container {
+    display: grid;
+    grid-template-columns: repeat(
+      auto-fill,
+      minmax(18rem, 1fr)
+    );
+}

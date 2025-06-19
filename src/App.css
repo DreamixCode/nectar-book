@@ -1,0 +1,16 @@
+#root {
+  /*max-width: 1280px;*/
+  margin: 0 auto;
+  /*padding: 2rem;*/
+  /*text-align: center;*/
+  overflow: hidden;
+}
+
+/*.button-background {*/
+/*  !*background: linear-gradient(90deg, #ED639E -17.65%, #363986 81.93%);*!*/
+/*  @apply bg-gradient-to-r from-[#ED639E] from-[-17.65%] to-[#363986] to-[81.93%]*/
+/*}*/
+
+/*.button-background:hover {*/
+/*    @apply bg-gradient-to-r from-[#363986] from-[-17.65%] to-[#ED639E] to-[81.93%]*/
+/*}*/

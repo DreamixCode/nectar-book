@@ -1,0 +1,99 @@
+{
+  "common": {
+    "buy": "Buy",
+    "buyFromAmazon": "Buy from Amazon"
+  },
+  "header": {
+    "title": "KANINA KRISALIS",
+    "forMe": "About Me",
+    "books": "Books",
+    "testimonials": "Testimonials",
+    "contacts": "Contacts"
+  },
+  "homePage": {
+    "authorHighlight": {
+      "shirtExcerpt": "Ayla’s life is a blur of lies, pills, and lost nights.<br/>Until she wakes up half-dead in St. Luke’s Hospital in Thessaloniki—<br/>and her sister is gone.<br/>No trace. No records.<br/>As if she never existed.",
+      "readExcerpt": "Read an excerpt",
+      "aboutAuthor": "<b>Kanina Krisalis</b> is an author from the Balkans who graduated from the American University in Bulgaria and completed a creative writing program at Boston University.<br/><br/><b>NECTAR. Sounds of Soft Things Breaking</b> is her debut novel — a dark, genre-defying story about memory, disappearance, and the slow unraveling of identity.<br/><br/>She lives between Sofia and Thessaloniki and publishes under the name <b>Kanina Krisalis</b> to allow the stories to speak for themselves."
+    },
+    "bookInfo": {
+      "bookDescription": "Ayla wakes up in a hospital with her body shattered, her memory fractured—and no idea who Selen is, the sister everyone insists she had.<br/><br/>Following a trail through Thessaloniki’s buried places — an abandoned water tower, a gangster-infested motel, the swamp where everything rots — she begins searching for answers.<br/><br/>But the deeper she digs, the more her mind betrays her. The gaps in her memory aren't just blank; they twist, shift, and threaten to consume her.<br/><br/>If Ayla doesn’t find the truth soon, she won’t just lose her sister.<br/>he’ll lose herself."
+    },
+    "testimonials": {
+        "testimonial1": {
+            "quote": "“Such a strong first impression—it really pulls you in. Cinematic and haunting in the best way.”",
+            "author": "ALIX E. HARROW, Hugo Award winner and author of The Ten Thousand Doors of January"
+        },
+        "testimonial2": {
+            "quote": "“A haunting, genre-defying novel that blends magical realism, and a modern exploration of family, trauma, and the supernatural. It’s a deeply layered, poetic, and unsettling work that plays with themes of faith, belief, and the search for connection in a fractured world.”",
+            "author": "JOSE CARDEIRO, author of The Death оf Death, a global bestseller"
+        },
+        "testimonial3": {
+            "quote": "“A raw and edgy book that reads like the love child of Kathy Acker and Elmore Leonard. Ayla’s voice spins a kind of confessionalist noir as she leads us down a twisty rabbit hole of memory, loss, and imagina tion, poetically blurring all three.”",
+            "author": "MICHAEL HARRIS COHEN, author of The Eyes"
+        },
+        "testimonial4": {
+            "quote": "“From the amnesiac hospital room to the swamp symbolizing the dark recesses of trauma, Ayla searches for her missing sister in a world where memories are entombed as deeply as secrets. And even if some stories are better left buried, the novel—in more than one respect—is utterly unflinching.”",
+            "author": "ANGEL IGOV, author of A Short Tale of Shame"
+        },
+        "testimonial5": {
+            "quote": " “Beneath the swamp’s still surface, a secret stirs. Nectar is a gripping page-turner that pulls you in from the first page and never lets go. Each chapter unveils new clues and dark secrets, stok ing your curiosity and keeping you guessing long into the night. The final revelation is a gut-punch twist that flips the whole story on its head. Bold and unflinching, this novel feels destined for literary success.”",
+            "author": "IORDAN MATEEV, Publisher of Forbes Bulgaria   "
+        }
+    },
+    "bookList": {
+      "bulgarianEdition": {
+        "title": "Нектар",
+        "price": "27.99 lv",
+        "buttonText": "Buy"
+      },
+      "englishEdition": {
+        "title": "Nectar",
+        "price": "27.99 lv",
+        "buttonText": "Buy"
+      },
+      "storytelEdition": {
+        "title": "Audiobook available in Storytel",
+        "buttonText": "Coming soon"
+      },
+      "amazonEdition": {
+        "title": "Nectar-Available оn Amazon",
+        "price": "$9.99",
+        "buttonText": "Buy from amazon"
+      }
+    }
+  },
+  "contactUs": {
+    "backButton": "< Back",
+    "sendButton": "Send",
+    "totalPrice": "Total amount: {{price}} lv",
+    "orderBook": "Order book",
+    "bookPrice": "27.99 lv",
+    "freeOption": {
+      "title": "Add free of charge",
+      "description": "• A personal dedication from the author"
+    },
+    "authorReads": {
+      "title": "+ 2 lv",
+      "description": "Hear the Author – Bring the Story to Life! Scan the QR code and listen as the author reads two chapters from the book. Experience the story in the voice it was born with!"
+    },
+    "additionalBook": {
+      "title": "1 + 1 book",
+      "description": "• Second book at half price"
+    },
+    "giftBox": {
+      "title": "+10 lv",
+      "description": "• Luxury gift box<br/><br/>• A personal dedication from the author"
+    },
+    "course": {
+      "title": "+ 49 lv",
+      "description": "• Access to 5 videos – a short and efficient course in creative writing"
+    },
+    "form": {
+      "name": "Name and Surname",
+      "email": "Email",
+      "phoneNumber": "Phone number",
+      "address": "Address"
+    }
+  }
+}

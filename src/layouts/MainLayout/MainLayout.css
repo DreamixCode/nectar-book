@@ -1,0 +1,3 @@
+.header-height {
+  @apply h-[var(--header-height)] shrink-0;
+}
